@@ -1,2 +1,2 @@
 # iris_decision-tree
-Decision Tree on IRISdataset
+Decision Tree on IRIS dataset
